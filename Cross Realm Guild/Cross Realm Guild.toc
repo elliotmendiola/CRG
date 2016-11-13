@@ -1,0 +1,19 @@
+## Interface: 70100
+## Title: |c00ff00Cross Realm Guild|r
+## Notes: Cross realm guild management suite for managing users, notes, etc.
+## Author: Elliot Mendiola
+## Version: 0.8 alpha
+## DefaultState: enabled
+## SavedVariables: CrossRealmGuildDB
+## Dependencies: Ace3
+
+## libs ##
+libs\AceAddon-3.0\AceAddon-3.0.lua
+libs\AceConsole-3.0\AceConsole-3.0.lua
+libs\AceGUI-3.0\AceGUI-3.0.lua
+libs\AceConfig-3.0\AceConfig-3.0.lua
+libs\AceDB-3.0\AceDB-3.0.lua
+libs\AceDBOptions-3.0\AceDBOptions-3.0.lua
+libs\AceEvent-3.0\AceEvent-3.0.lua
+libs\AceHook-3.0\AceHook-3.0.lua
+libs\AceLocale-3.0\AceLocale-3.0.lua
